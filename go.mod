@@ -8,7 +8,7 @@ require (
 	github.com/didip/tollbooth_chi v0.0.0-20220429013743-da966f2f674b
 	github.com/go-chi/chi/v5 v5.0.7
 	github.com/go-chi/render v1.0.2
-	github.com/go-pkgz/auth v1.19.0
+	github.com/go-pkgz/auth v1.19.1
 	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e
 )
 
@@ -35,7 +35,7 @@ require (
 	github.com/google/flatbuffers v1.12.1 // indirect
 	github.com/gorilla/css v1.0.0 // indirect
 	github.com/klauspost/compress v1.15.6 // indirect
-	github.com/microcosm-cc/bluemonday v1.0.18 // indirect
+	github.com/microcosm-cc/bluemonday v1.0.19 // indirect
 	github.com/nullrocks/identicon v0.0.0-20180626043057-7875f45b0022 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/stretchr/testify v1.7.1 // indirect
