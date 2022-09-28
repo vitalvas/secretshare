@@ -7,13 +7,14 @@ require (
 	github.com/didip/tollbooth/v6 v6.1.2
 	github.com/didip/tollbooth_chi v0.0.0-20220429013743-da966f2f674b
 	github.com/go-chi/chi/v5 v5.0.7
-	github.com/go-chi/render v1.0.1
+	github.com/go-chi/render v1.0.2
 	github.com/go-pkgz/auth v1.19.0
 	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e
 )
 
 require (
 	cloud.google.com/go/compute v1.7.0 // indirect
+	github.com/ajg/form v1.5.1 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/cespare/xxhash v1.1.0 // indirect
 	github.com/cespare/xxhash/v2 v2.1.1 // indirect
