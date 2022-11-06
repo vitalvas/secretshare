@@ -3,7 +3,7 @@ module github.com/vitalvas/secretshare
 go 1.18
 
 require (
-	github.com/dgraph-io/badger/v3 v3.2103.3
+	github.com/dgraph-io/badger/v3 v3.2103.4
 	github.com/didip/tollbooth/v6 v6.1.2
 	github.com/didip/tollbooth_chi v0.0.0-20220429013743-da966f2f674b
 	github.com/go-chi/chi/v5 v5.0.7
