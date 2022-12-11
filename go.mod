@@ -6,7 +6,7 @@ require (
 	github.com/dgraph-io/badger/v3 v3.2103.4
 	github.com/didip/tollbooth/v6 v6.1.2
 	github.com/didip/tollbooth_chi v0.0.0-20220429013743-da966f2f674b
-	github.com/go-chi/chi/v5 v5.0.7
+	github.com/go-chi/chi/v5 v5.0.8
 	github.com/go-chi/render v1.0.2
 	github.com/go-pkgz/auth v1.20.0
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
